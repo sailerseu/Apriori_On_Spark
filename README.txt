@@ -1,4 +1,4 @@
-Our work is on frequent itemset mining on big datasets.
+Our work is on frequent itemset mining for big datasets.
 
 There are two folders here, Spark, Hadoop and result. Spark and Hadoop contain the source code corresponded. 
 
